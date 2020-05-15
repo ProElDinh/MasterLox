@@ -1,2 +1,2 @@
-# Eldinh
+# MasterLox
 None in programming
